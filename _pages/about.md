@@ -20,9 +20,9 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Medical AI** and **Biomedical Intelligence**. Currently pursuing a Master of Artificial Intelligence at [Monash University Malaysia](https://www.monash.edu.my/) under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-You can see my CV [here](/docs/CV_Runze_Ma.pdf).
-
 I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
+
+You can see my CV [here](/docs/CV_Runze_Ma.pdf).
 
 # 🔥 News
 
