@@ -22,7 +22,7 @@ I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Med
 
 I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
-You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resume_zh.pdf).
+You can see my CV [here](../docs/resume.pdf) and Chinese version [here](../docs/resume_zh.pdf).
 
 # 🔥 News
 
