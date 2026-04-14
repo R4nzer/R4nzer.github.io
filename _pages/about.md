@@ -44,7 +44,7 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 # 💼 Work Experience
 
 - ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
-  - Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
+  - Developed and trained multimodal pre-training models for biosignals.
 
 - ***2025.10-Present***: Kingda Education Sdn Bhd ***AI Technical Consultant***
   - Delivered workplace AI training and technical consulting support for practical AI adoption.
