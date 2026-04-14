@@ -22,12 +22,14 @@ I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Med
 
 I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
-You can see my CV [here](/docs/CV_Runze_Ma.pdf).
+You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resume_zh.pdf).
 
 # 🔥 News
 
-- ***2026.03***: We won National First Place in Wearable Biometrics Track at the [2025 Smart Wearable and Sports Health Technology Challenge](https://bmedesign.cn/2025/cp/#/home).
+- ***2026.03***: We won National First Place in Wearable Biometrics Track at the [2025 Smart Wearable and Sports Health Technology Challenge](https://mp.weixin.qq.com/s/jXNmL6s76Ph7imwcLtCwxw?scene=1).
 - ***2025.11***: Started as Research Assistant at [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), focusing on multimodal biosignal pre-training.
+- ***2025.10***: Started supporting Kingda Education Sdn Bhd as an AI technical consultant, delivering workplace AI training and building task-oriented agents.
+- ***2024.11***: Joined Juxin Financial Consulting Co., Ltd. as a Data Analyst, integrating OCR with LLM APIs to improve invoice reconciliation efficiency.
 - ***2024.03***: Joined [Antalya Technology](https://www.linkedin.com/company/antalya-technology) and contributed to [IELTS Master](https://zmielts.cn) product development.
 
 # 📝 Publications
@@ -44,7 +46,11 @@ You can see my CV [here](/docs/CV_Runze_Ma.pdf).
 - ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
   - Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
 
-- ***2024.03-Present***: <img src="images/ANTALYA.jpg" alt="ANTALYA" width="40" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) ***AI Product Tech Lead / Operations***
+- ***2025.10-Present***: Kingda Education Sdn Bhd ***AI Technical Consultant***
+  - Delivered workplace AI training and technical consulting support for practical AI adoption.
+  - Designed and implemented task-oriented AI agents to streamline internal workflows.
+
+- ***2024.03-Present***: <img src="images/ANTALYA.jpg" alt="ANTALYA" width="40" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) ***AI Product & Operations Lead***
   - Designed core prompts for <img src="images/zmielts.png" alt="zmielts" width="40" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
   - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
 
