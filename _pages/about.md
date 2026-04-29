@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Medical AI** and **Biomedical Intelligence**. Currently pursuing a Master of Artificial Intelligence at [Monash University Malaysia](https://www.monash.edu.my/) under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
+I previously worked as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
 You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resume_zh.pdf).
 
@@ -43,7 +43,7 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 
 # 💼 Work Experience
 
-- ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
+- ***2025.11-2026.03***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
   - Developed and trained multimodal pre-training models for biosignals.
 
 - ***2025.10-Present***: Kingda Education Sdn Bhd ***AI Technical Consultant***
@@ -56,6 +56,20 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 
 - ***2024.11-2025.02***:  Juxin Financial Consulting Co., Ltd. ***Data Analyst***
   - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
+
+# 📂 Projects
+
+- ***2026.04-2026.05***: **Recipe Generation: From RNNs to RAG Menu Designer**
+  - Trained encoder-decoder RNNs with Bahdanau attention from scratch for ingredient-to-recipe generation.
+  - Fine-tuned T5 and GPT-2 with LoRA, and built a Menu Designer with RAG pipeline and LLM-as-Judge evaluation.
+
+- ***2025.05-2025.06***: **Multi-Agent RL for Autonomous Shuttle Delivery**
+  - Designed a tabular Q-learning MARL system on a 5x5 grid with collision detection, hybrid reward shaping, and multi-map curriculum learning.
+  - All four agents achieved 100% delivery success rate in focal agent evaluation across 16 start configurations.
+
+- ***2025.03-2025.04***: **Classical Search & Adversarial Planning for Pac-Man AI**
+  - Implemented A* search with domain-specific heuristics for single-goal, multi-corner, and full food collection pathfinding.
+  - Designed alpha-beta pruning with a handcrafted evaluation function for adversarial ghost avoidance, with ablation studies on heuristic components and search depth.
 
 # 🎖 Honors and Awards
 
