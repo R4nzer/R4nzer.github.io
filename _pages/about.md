@@ -56,11 +56,6 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 - ***2024.11-2025.02***:  Juxin Financial Consulting Co., Ltd. ***Data Analyst***
   - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
 
-# 💻 Projects
-
-- **Pac-Man AI: Classical Search & Adversarial Planning** — Implemented A* search with domain-specific heuristics and alpha-beta pruning for adversarial ghost avoidance. [[GitHub]](https://github.com/R4nzer/pacman-ai)
-- **Multi-Agent RL for Autonomous Shuttle Delivery** — Designed a tabular Q-learning MARL system with collision detection and hybrid reward shaping. [[GitHub]](https://github.com/R4nzer/multiagent-rl)
-
 # 🎖 Honors and Awards
 
 - ***2026.03***: [**2025 Smart Wearable and Sports Health Technology Challenge**](https://bmedesign.cn/2025/cp/#/home) — Wearable Biometrics Track National First Place
