@@ -27,8 +27,8 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 # 🔥 News
 - ***2026.03***: We won ***National First Place*** in Wearable Biometrics Track at the [2025 Smart Wearable and Sports Health Technology Challenge](https://mp.weixin.qq.com/s/jXNmL6s76Ph7imwcLtCwxw?scene=1).
 - ***2025.11***: Started as Research Assistant at [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), focusing on multimodal biosignal pre-training.
-- ***2025.10***: Started supporting Kingda Education Sdn Bhd as an AI technical consultant, delivering workplace AI training and building task-oriented agents.
-- ***2024.11***: Joined Juxin Financial Consulting Co., Ltd. as a Data Analyst, integrating OCR with LLM APIs to improve invoice reconciliation efficiency.
+- ***2025.10***: Started supporting Kingda Education Sdn Bhd as an AI technical consultant, delivering AI training and building AI agents.
+- ***2024.11***: Joined Juxin Financial Consulting Co., Ltd. as a Data Analyst, using AI to improve invoice reconciliation efficiency.
 - ***2024.03***: Joined [Antalya Technology](https://www.linkedin.com/company/antalya-technology) and contributed to [IELTS Master](https://zmielts.cn) product development.
 
 # 📝 Publications
