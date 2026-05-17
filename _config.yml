@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Runze Ma (马润泽)"
-description              : "Seeking 2027 Phd Position"
+description              : "Master student @ Monash University Malaysia"
 repository               : "R4nzer/R4nzer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Runze Ma (马润泽)"
   avatar           : "images/headshot.jpg"
-  bio              : "Biosignal Processing | Biomedical Intelligence | Medical AI"
+  bio              : "Biomedical Intelligence & AI4HealthCare | Biosignal Processing | Cardiovascular & Neuroscience | 🎓 Seeking 2027 PhD Position"
   location         : "kuala Lumpur"
   employer         :
   pubmed           : 

@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Monash University Malaysia under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal pre-training models for biosignals. Recently, I also joined the NeuroML Lab at Tsinghua University as a Research Assistant, led by [Liyuan Wang](https://lywang3081.github.io/), to further explore foundation model development for biosignals. 
+I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal pre-training models for biosignals. Recently, I also joined the NeuroML Lab at Tsinghua University as a Research Assistant, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), to further explore foundation model development for biosignals. 
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations. Additionally, I serve as an AI Technical Consultant for Kingda Education, delivering workplace AI training and building task-oriented agents.
 
@@ -63,7 +63,7 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 - ***2024.07-2026.11***: <img src="images/monash.png" alt="monash" width="40" /> Monash University Malaysia - ***Master of Artificial Intelligence***
 - ***2020.09-2024.06***: <img src="images/hust.png" alt="HUST" width="40" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
   
-# 🎖 Honors and Awards
+# 🎖 Certificates and Awards
 
 - ***2026.03***: **2025 Smart Wearable and Sports Health Technology Challenge** - Wearable Biometrics Track National First Place
 - ***2022.09***: **Technology Innovation Scholarship** - 1/30
