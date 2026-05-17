@@ -44,7 +44,7 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 - ***2025.11-Present***: <img src="images/THU.png" alt="THU" width="40" /> NeuroML Lab at Tsinghua University ***Research Assistant***
   - Developed and trained foundation models for biosignals.
   
-- ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
+- ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
   - Developed and trained multimodal pre-training models for biosignals.
 
 - ***2025.10-Present***: Kingda Education ***AI Technical Consultant***
