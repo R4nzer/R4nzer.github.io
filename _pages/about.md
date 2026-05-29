@@ -66,12 +66,12 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 # 🎖 Certificates and Awards
 
 - ***2026.03***: **2025 Smart Wearable and Sports Health Technology Challenge** - Wearable Biometrics Track National First Place
-- ***2022.09***: [**Scholarship for Scientific and Technological Innovation**](../docs/Scholarship_for_Scientific_and_Technological_Innovation.jpg) - 1/30
-- ***2022.08***: [**Certificate of Professional Knowledge Assessment in Mathematical Modeling**](../docs/Mathematical_Modeling.jpg)
+- ***2022.09***: [**Scholarship for Scientific and Technological Innovation**](../docs/Scholarship_for_Scientific_and_Technological_Innovation.pdf) - 1/30
+- ***2022.08***: [**Certificate of Professional Knowledge Assessment in Mathematical Modeling**](../docs/Mathematical_Modeling.pdf)
 - ***2022.08***: [**Certificate of the University Artificial Intelligence Training Camp**](../docs/ai_training.pdf)
 - ***2022.05***: [**MathorCup College Math Modeling Challenge**](../docs/MathorCup.pdf) - First Prize (Top 5%)
-- ***2022.02***: [**Mathematical Contest in Modeling**](../docs/Mathematical_Contest.jpg) - Honorable Mention (Top 20%)
-- ***2021.09***: [**Scholarship for Community Engagement**](../docs/Scholarship_for_Community_Engagement.jpg) - 1/30
+- ***2022.02***: [**Mathematical Contest in Modeling**](../docs/Mathematical_Contest.pdf) - Honorable Mention (Top 20%)
+- ***2021.09***: [**Scholarship for Community Engagement**](../docs/Scholarship_for_Community_Engagement.pdf) - 1/30
 
 # 🔧 Skills
 
