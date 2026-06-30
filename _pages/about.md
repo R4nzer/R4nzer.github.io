@@ -22,7 +22,7 @@ I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Mona
 
 I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal pre-training models for biosignals. Recently, I also joined the NeuroML Lab at Tsinghua University as a Research Assistant, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), to further explore foundation model development for biosignals. 
 
-Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations. Additionally, I serve as an AI Technical Consultant for Kingda Education, delivering workplace AI training and building task-oriented agents.
+Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
 You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resume_zh.pdf).
 
@@ -47,7 +47,7 @@ You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resu
 - ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
   - Developed and trained multimodal pre-training models for biosignals.
 
-- ***2025.10-Present***: Kingda Education ***AI Technical Consultant***
+- ***2025.10-2026.06***: Kingda Education ***AI Technical Consultant***
   - Delivered workplace AI training and technical consulting support for practical AI adoption.
   - Designed and implemented task-oriented AI agents to streamline internal workflows.
 
