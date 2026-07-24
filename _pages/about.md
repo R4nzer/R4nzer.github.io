@@ -24,7 +24,7 @@ I am working as a Research Assistant at the [Laboratory of Advanced Bioelectroni
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
-You can see my CV [here](/docs/resume.pdf) and Chinese version [here](/docs/resume_zh.pdf).
+You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh.pdf).
 
 # 🔥 News
 - ***2026.05***: Joined NeuroML Lab at Tsinghua University as a Research Assistant, focusing on foundation model development for biosignals.
