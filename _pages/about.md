@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Monash University Malaysia under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal pre-training models for biosignals. Recently, I also joined the NeuroML Lab at Tsinghua University as a Research Assistant, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), to further explore foundation model development for biosignals. 
+I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. Recently, I also joined the NeuroML Lab at Tsinghua University as a Research Assistant, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), to further explore foundation model development for biosignals. 
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
@@ -31,7 +31,7 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
 
 - ***2026.03***: We won ***National First Place*** in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
-- ***2025.11***: Joined [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Assistant, focusing on multimodal biosignal pre-training.
+- ***2025.11***: Joined [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Assistant, focusing on multimodal biosignal models.
 
 - ***2024.07***: Started my Master of Artificial Intelligence at Monash University Malaysia.
 
@@ -45,7 +45,7 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
   - Developed and trained foundation models for biosignals.
   
 - ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
-  - Developed and trained multimodal pre-training models for biosignals.
+  - Developed and trained multimodal models for biosignals.
 
 - ***2025.10-2026.06***: Kingda Education ***AI Technical Consultant***
   - Delivered workplace AI training and technical consulting support for practical AI adoption.
@@ -65,7 +65,7 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
   
 # 🎖 Certificates and Awards
 
-- ***2026.03***: **2025 Smart Wearable and Sports Health Technology Challenge** - Wearable Biometrics Track National First Place
+- ***2026.03***: [**2025 Smart Wearable and Sports Health Technology Challenge**](../docs/Smart_Wearable_Challenge_2025.pdf) - Wearable Biometrics Track National First Place
 - ***2022.09***: [**Scholarship for Scientific and Technological Innovation**](../docs/Scholarship_for_Scientific_and_Technological_Innovation.pdf) - 1/30
 - ***2022.08***: [**Certificate of Professional Knowledge Assessment in Mathematical Modeling**](../docs/Mathematical_Modeling.pdf)
 - ***2022.08***: [**Certificate of the University Artificial Intelligence Training Camp**](../docs/ai_training.pdf)
