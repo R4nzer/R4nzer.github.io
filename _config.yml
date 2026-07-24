@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Runze Ma (马润泽)"
-description              : "biomedical intelligence  AI4Healthcare"
+description              : "Biomedical Intelligence"
 repository               : "R4nzer/R4nzer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Runze Ma (马润泽)"
   avatar           : "images/headshot.jpg"
-  bio              : "graduate student @ monash university"
+  bio              : "Graduate student @ Monash"
   location         : "kuala Lumpur"
   employer         :
   pubmed           : 
