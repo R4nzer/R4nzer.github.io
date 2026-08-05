@@ -27,6 +27,8 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh.pdf).
 
 # 🔥 News
+- ***2026.08***: One paper has been accepted by NLPCC 2026 as an ***Oral presentation***.
+
 - ***2026.05***: Joined NeuroML Lab at Tsinghua University as a Research Assistant, focusing on foundation model development for biosignals.
 
 - ***2026.03***: We won ***National First Place*** in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
