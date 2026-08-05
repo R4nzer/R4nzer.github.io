@@ -27,7 +27,7 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh.pdf).
 
 # 🔥 News
-- ***2026.08***: One paper is accepted to NLPCC 2026 (Oral presentation).
+- ***2026.08***: One paper is accepted to NLPCC 2026 (Oral).
 
 - ***2026.05***: Joined NeuroML Lab at Tsinghua University as a Research Assistant, focusing on foundation model development for biosignals.
 
