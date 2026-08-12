@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Monash University Malaysia under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. Recently, I also joined the NeuroML Lab at Tsinghua University as a Research Assistant, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), to further explore foundation model development for biosignals. 
+I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. I also worked as a Research Assistant at the NeuroML Lab at Tsinghua University, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), on foundation model development for biosignals. 
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
@@ -43,7 +43,7 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
 - Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10319517)
 
 # 💼 Work Experience
-- ***2025.11-Present***: <img src="images/THU.png" alt="THU" width="40" /> NeuroML Lab at Tsinghua University ***Research Assistant***
+- ***2026.05-2026.08***: <img src="images/THU.png" alt="THU" width="40" /> NeuroML Lab at Tsinghua University ***Research Assistant***
   - Developed and trained foundation models for biosignals.
   
 - ***2025.11-Present***: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
