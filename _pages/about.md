@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Monash University Malaysia under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. I also worked as a Research Assistant at the NeuroML Lab at Tsinghua University, led by [Liyuan Wang (王立元)](https://lywang3081.github.io/), on foundation model development for biosignals. 
+I am working as a Research Assistant at the [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. 
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
