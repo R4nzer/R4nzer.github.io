@@ -37,7 +37,7 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
 
 # 📝 Publications
 *Cited by <span id='total_cit'>…</span> on [Google Scholar](https://scholar.google.com/citations?user=BwXiomYAAAAJ&hl=en).*
-- Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10319517)
+- Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10319517) <span class='show_paper_citations' data='BwXiomYAAAAJ:u5HHmVD_uO8C'></span>
 
 <span class='anchor' id='work-experience'></span>
 
