@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Work Experience"
-    url: "/#-work-experience"
+    url: "/#work-experience"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Certificates and Awards"
-    url: "/#-certificates-and-awards"
+    url: "/#certificates-and-awards"
 
   - title: "Skills"
-    url: "/#-skills"
+    url: "/#skills"

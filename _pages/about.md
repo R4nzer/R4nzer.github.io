@@ -1,19 +1,11 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -25,6 +17,8 @@ I am working as a Research Assistant at the [Laboratory of Advanced Bioelectroni
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
 You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh.pdf).
+
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - ***2026.08***: One paper is accepted to NLPCC 2026 (Oral).
@@ -39,8 +33,13 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
 
 - ***2023.08***: One paper was accepted by ICEEM 2023.
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications
+*Cited by <span id='total_cit'>…</span> on [Google Scholar](https://scholar.google.com/citations?user=BwXiomYAAAAJ&hl=en).*
 - Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10319517)
+
+<span class='anchor' id='work-experience'></span>
 
 # 💼 Work Experience
 - ***2026.05-2026.08***: <img src="images/THU.png" alt="THU" width="40" /> NeuroML Lab at Tsinghua University ***Research Assistant***
@@ -60,11 +59,15 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
 - ***2024.11-2025.02***:  Juxin Financial Consulting ***Data Analyst***
   - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
 
+<span class='anchor' id='education'></span>
+
 # 🎓 Education
 
 - ***2024.07-2026.11***: <img src="images/monash.png" alt="monash" width="40" /> Monash University Malaysia - ***Master of Artificial Intelligence***
 - ***2020.09-2024.06***: <img src="images/hust.png" alt="HUST" width="40" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
   
+<span class='anchor' id='certificates-and-awards'></span>
+
 # 🎖 Certificates and Awards
 
 - ***2026.03***: [**2025 Smart Wearable and Sports Health Technology Challenge**](../docs/Smart_Wearable_Challenge_2025.pdf) - Wearable Biometrics Track National First Place
@@ -74,6 +77,8 @@ You can see my CV [here](/docs/cv_en.pdf) and Chinese version [here](/docs/cv_zh
 - ***2022.05***: [**MathorCup College Math Modeling Challenge**](../docs/MathorCup.pdf) - First Prize (Top 5%)
 - ***2022.02***: [**Mathematical Contest in Modeling**](../docs/Mathematical_Contest.pdf) - Honorable Mention (Top 20%)
 - ***2021.09***: [**Scholarship for Community Engagement**](../docs/Scholarship_for_Community_Engagement.pdf) - 1/30
+
+<span class='anchor' id='skills'></span>
 
 # 🔧 Skills
 
