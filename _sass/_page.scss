@@ -60,10 +60,19 @@
         margin-top: -10em;
     }
   }
-  h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
+  h1, h2 {
+    margin-top: 1.5em;
+    padding-bottom: 0.4em;
     border-bottom: 1px solid $border-color;
+    text-wrap: balance;
+  }
+
+  h1 {
+    font-size: 1.55em;
+  }
+
+  h2 {
+    font-size: 1.35em;
   }
 
   p, li, dl {

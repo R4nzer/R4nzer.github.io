@@ -88,7 +88,7 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
+h1:before, h2:before, .anchor:before { 
     content: ''; 
     display: block; 
     position: relative; 
@@ -97,13 +97,16 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+/* modern anchor offset for sticky masthead */
+h1, h2, .anchor {
+    scroll-margin-top: 4.5em;
+}
+
+/* inline institution logos (fixed height, no layout shift) */
+img.inline-icon {
+    height: 1.15em;
+    width: auto;
+    vertical-align: -0.2em;
+    margin-right: 0.35em;
+    border-radius: $border-radius;
 }
