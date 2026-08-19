@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Runze Ma (马润泽)"
-description              : "Biomedical Intelligence  AI4Healthcare"
+description              : "Biomedical Intelligence AI4Healthcare"
+url                      : "https://r4nzer.github.io"
 repository               : "R4nzer/R4nzer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +25,7 @@ author:
   name             : "Runze Ma (马润泽)"
   avatar           : "images/headshot.jpg"
   bio              : "Graduate student @ Monash"
-  location         : "kuala Lumpur"
+  location         : "Kuala Lumpur"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BwXiomYAAAAJ&hl=en"
