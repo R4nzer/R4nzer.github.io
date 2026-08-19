@@ -102,10 +102,10 @@ h1, h2, .anchor {
     scroll-margin-top: 4.5em;
 }
 
-/* inline institution logos (fixed height, no layout shift) */
+/* inline institution logos: fixed 40px width (original setting), no layout shift */
 img.inline-icon {
-    height: 1.15em;
-    width: auto;
+    width: 40px;
+    height: auto;
     vertical-align: -0.2em;
     margin-right: 0.35em;
     border-radius: $border-radius;
