@@ -16,8 +16,6 @@ I am working as a Research Assistant at the [Laboratory of Advanced Bioelectroni
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
-You can download my CV in [English](/docs/cv_en.pdf) or [中文](/docs/cv_zh.pdf).
-
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
@@ -42,21 +40,21 @@ You can download my CV in [English](/docs/cv_en.pdf) or [中文](/docs/cv_zh.pdf
 <span class='anchor' id='work-experience'></span>
 
 ## 💼 Work Experience
-- ***2026.05-2026.08***: <img class="inline-icon" src="images/THU.png" alt="Tsinghua University" /> NeuroML Lab at Tsinghua University ***Research Assistant***
+- ***2026.05-2026.08***: <img class="inline-icon" src="images/THU.png" alt="Tsinghua University" /> NeuroML Lab at Tsinghua University - ***Research Assistant***
   - Developed and trained foundation models for biosignals.
   
-- ***2025.11-Present***: <img class="inline-icon" src="images/LAB.png" alt="SUAT Advanced Bioelectronics Lab" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
+- ***2025.11-Present***: <img class="inline-icon" src="images/LAB.png" alt="SUAT Advanced Bioelectronics Lab" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Assistant***
   - Developed and trained multimodal models for biosignals.
 
-- ***2025.10-2026.06***: Kingda Education ***AI Technical Consultant***
+- ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
   - Delivered workplace AI training and technical consulting support for practical AI adoption.
   - Designed and implemented task-oriented AI agents to streamline internal workflows.
 
-- ***2024.03-Present***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) ***AI Product & Operations Lead***
+- ***2024.03-Present***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product & Operations Lead***
   - Designed core prompts for <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
   - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
 
-- ***2024.11-2025.02***:  Juxin Financial Consulting ***Data Analyst***
+- ***2024.11-2025.02***:  Juxin Financial Consulting - ***Data Analyst***
   - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
 
 <span class='anchor' id='education'></span>
