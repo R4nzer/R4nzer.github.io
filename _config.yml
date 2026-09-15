@@ -10,7 +10,6 @@ title                    : "Runze Ma (马润泽)"
 description              : "Biomedical Intelligence AI4Healthcare"
 url                      : "https://r4nzer.github.io"
 repository               : "R4nzer/R4nzer.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -66,7 +65,6 @@ include:
   - _pages
   - files
 exclude:
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

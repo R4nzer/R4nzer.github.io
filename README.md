@@ -6,16 +6,8 @@ Built with Jekyll, based on the [AcadHomepage](https://github.com/RayeRen/acad-h
 
 ## Features
 
-- **Google Scholar citations**: displayed under Publications via the `google-scholar-stats` branch (updated daily by the `.github/workflows/google_scholar_crawler.yaml` workflow at 08:15 UTC, and on every push to `main`).
-  - Requires the Actions secret `GOOGLE_SCHOLAR_ID` (Settings → Secrets and variables → Actions), value = the `user=` parameter of the Google Scholar profile URL.
-  - If the workflow fails (scholarly is occasionally CAPTCHA-blocked on GitHub runners), re-run it manually via the Actions tab (`workflow_dispatch`), or regenerate locally:
-    ```bash
-    cd google_scholar_crawler
-    python3 -m venv /tmp/gs-venv && /tmp/gs-venv/bin/pip install scholarly==1.7.11
-    GOOGLE_SCHOLAR_ID=<YOUR_ID> /tmp/gs-venv/bin/python main.py
-    # then push results/gs_data.json + gs_data_shieldsio.json to the google-scholar-stats branch
-    ```
 - **SEO**: meta description, Open Graph image, sitemap, robots.txt, custom 404.
+- **Photo favicon**: the full icon set (favicon, apple-touch, android-chrome) is generated from `images/headshot.jpg`.
 
 ## Local development
 
