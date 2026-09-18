@@ -19,4 +19,6 @@ Deploy: push to `main`; GitHub Pages builds and publishes automatically.
 
 ## CVs
 
-Compiled CV PDFs live in `docs/` (`cv_en.pdf`, `cv_zh.pdf`), sourced from the separate LaTeX project in `../CV/`.
+The CV LaTeX sources live in the separate project at `../CV/` (`cv_en/`, `cv_zh/`).
+They are no longer published as PDFs under `docs/`; that folder only holds supporting
+certificate PDFs linked from the homepage.
