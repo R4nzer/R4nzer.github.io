@@ -21,8 +21,6 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 ## 🔥 News
 - ***2026.08***: One paper is accepted to NLPCC 2026 (Oral).
 
-- ***2026.05***: Joined NeuroML Lab at Tsinghua University as a Research Assistant, focusing on foundation model development for biosignals.
-
 - ***2026.03***: We won ***National First Place*** in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
 - ***2025.11***: Joined [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Assistant, focusing on multimodal biosignal models.
@@ -39,9 +37,6 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 <span class='anchor' id='work-experience'></span>
 
 ## 💼 Work Experience
-- ***2026.05-2026.08***: <img class="inline-icon" src="images/THU.png" alt="Tsinghua University" /> NeuroML Lab at Tsinghua University - ***Research Assistant***
-  - Developed and trained foundation models for biosignals.
-  
 - ***2025.11-Present***: <img class="inline-icon" src="images/LAB.png" alt="SUAT Advanced Bioelectronics Lab" /> [Laboratory of Advanced Bioelectronics at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Assistant***
   - Developed and trained multimodal models for biosignals.
 
