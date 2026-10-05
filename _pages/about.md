@@ -76,4 +76,4 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 
 - **Programming:** Python > C = Matlab > Java > C++
 - **Software:** Office, SQL, Power BI, VibeCoding
-- **Languages:** Chinese (Native); English (IELTS 6.5); Arabic (Basic Spelling)
+- **Languages:** Chinese (Native); English (IELTS 6.5)
