@@ -12,7 +12,7 @@ redirect_from:
 # 🧑‍💻 About Me
 I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Monash University under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
-I am working as a Research Assistant at the [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. 
+I am working as a Research Intern at the [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. 
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
@@ -23,7 +23,7 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 
 - ***2026.03***: We won ***National First Place*** in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
-- ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Assistant, focusing on multimodal biosignal models.
+- ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal biosignal models.
 
 - ***2024.07***: Started my Master of Artificial Intelligence at Monash University.
 
@@ -37,7 +37,7 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 <span class='anchor' id='work-experience'></span>
 
 ## 💼 Work Experience
-- ***2025.11-Present***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Assistant***
+- ***2025.11-Present***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
   - Developed and trained multimodal models for biosignals.
 
 - ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
