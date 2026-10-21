@@ -10,9 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍💻 About Me
-I'm **Runze Ma**. I recently graduated with a Master of Artificial Intelligence from Monash University, where I was supervised by [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/). I focus on developing lightweight medical Vision-Language Models for healthcare applications.
-
-I am working as a Research Intern at the [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. 
+I am working as a Research Intern at the [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal models for biosignals. 
 
 Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
