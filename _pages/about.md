@@ -25,8 +25,6 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 
 - ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal biosignal models.
 
-- ***2024.07***: Started my Master of Artificial Intelligence at Monash University.
-
 - ***2023.08***: One paper was accepted by ICEEM 2023.
 
 <span class='anchor' id='publications'></span>
