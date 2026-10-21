@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍💻 About Me
-I'm **Runze Ma**. Currently pursuing a Master of Artificial Intelligence at Monash University under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
+I'm **Runze Ma**. I recently graduated with a Master of Artificial Intelligence from Monash University, where I was supervised by [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/). I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
 I am working as a Research Intern at the [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I developed multimodal models for biosignals. 
 
@@ -19,9 +19,11 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
+- ***2026.10***: Graduated with a Master of Artificial Intelligence from Monash University.
+
 - ***2026.08***: One paper is accepted to NLPCC 2026 (Oral).
 
-- ***2026.03***: We won ***National First Place*** in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
+- ***2026.03***: We won National First Place in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
 - ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal biosignal models.
 
@@ -55,7 +57,7 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 
 ## 🎓 Education
 
-- ***2024.07-2026.11***: <img class="inline-icon" src="images/monash.png" alt="Monash University" /> Monash University - ***Master of Artificial Intelligence***
+- ***2024.07-2026.10***: <img class="inline-icon" src="images/monash.png" alt="Monash University" /> Monash University - ***Master of Artificial Intelligence***
 - ***2020.09-2024.06***: <img class="inline-icon" src="images/hust.png" alt="Huazhong University of Science and Technology" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
   
 <span class='anchor' id='certificates-and-awards'></span>
