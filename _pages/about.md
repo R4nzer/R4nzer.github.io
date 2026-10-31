@@ -27,6 +27,8 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 - ***2023.08***: 📄 One paper was accepted by ICEEM 2023.
 
+- ***2022.05***: 🏆 Won First Prize in the MathorCup College Math Modeling Challenge (Top 5%).
+
 <span class='anchor' id='publications'></span>
 
 ## 📝 Publications
