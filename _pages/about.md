@@ -23,7 +23,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 - ***2026.03***: We won National First Place in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
-- ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal biosignal models.
+- ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
 
 - ***2023.08***: One paper was accepted by ICEEM 2023.
 
@@ -39,7 +39,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Developing pretrained models for brain signal analysis.
 
 - ***2025.11-2026.10***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
-  - Developed and trained multimodal models for biosignals.
+  - Built and trained models on multimodal wearable sensing signals.
 
 - ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
   - Deployed AI tooling into the company's real workflows and trained its staff to use it.
@@ -74,5 +74,5 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 ## 🔧 Skills
 
 - **Programming:** Python > C = Matlab > Java > C++
-- **Software:** Office, SQL, Power BI, VibeCoding
+- **Software:** SQL, Power BI, VibeCoding
 - **Languages:** Chinese (Native); English (IELTS 7.0)
