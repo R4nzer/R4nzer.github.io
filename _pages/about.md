@@ -61,7 +61,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   
 <span class='anchor' id='certificates-and-awards'></span>
 
-## 🎖 Certificates and Awards
+## 🏆 Certificates and Awards
 
 - ***2026.03***: [**2025 Smart Wearable and Sports Health Technology Challenge**](../docs/Smart_Wearable_Challenge_2025.pdf) - Wearable Biometrics Track National First Place
 - ***2022.09***: [**Scholarship for Scientific and Technological Innovation**](../docs/Scholarship_for_Scientific_and_Technological_Innovation.pdf) - 1/30
