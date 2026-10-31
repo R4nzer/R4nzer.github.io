@@ -48,7 +48,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Iterated the LLM prompts behind the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature for real users.
 
 - ***2024.11-2025.02***:  Juxin Financial Consulting - ***Finance Intern***
-  - Automated invoice processing with **OCR** and LLM **APIs** alongside routine finance and audit work.
+  - Applied LLM **APIs** to invoice processing and reconciliation alongside routine finance and audit work.
 
 <span class='anchor' id='education'></span>
 
