@@ -42,15 +42,13 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Developed and trained multimodal models for biosignals.
 
 - ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
-  - Delivered workplace AI training sessions and provided consulting on practical adoption.
-  - Helped build the company's internal AI system on Feishu, including dashboards and automated workflows.
+  - Deployed AI tooling into the company's real workflows and trained its staff to use it.
 
 - ***2024.03-2026.10***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
-  - Wrote and iterated prompts for the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature.
-  - Managed the product's social media channels and official website.
+  - Iterated the LLM prompts behind the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature for real users.
 
 - ***2024.11-2025.02***:  Juxin Financial Consulting - ***Finance Intern***
-  - Performed routine financial and audit tasks, and used **OCR** with LLM **APIs** to assist invoice processing and manual reconciliation.
+  - Automated invoice processing with **OCR** and LLM **APIs** alongside routine finance and audit work.
 
 <span class='anchor' id='education'></span>
 
