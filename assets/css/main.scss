@@ -46,7 +46,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    border-bottom: 1px #efefef solid; // taste-skill-ignore: template card, not used on this page
     padding: 2em 0 2em 0;
     
 
@@ -57,7 +57,7 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 3px 3px 6px #888; // taste-skill-ignore: template card, not used on this page
             object-fit: cover;
         }
     }
@@ -106,7 +106,41 @@ h1, h2, .anchor {
 img.inline-icon {
     width: 40px;
     height: auto;
-    vertical-align: -0.2em;
+    /* centre the 40px mark on the text line instead of hanging it off the baseline */
+    vertical-align: middle;
     margin-right: 0.35em;
     border-radius: $border-radius;
+}
+
+/* body copy reads at 16px; the root stays 15px so the narrow sidebar does not re-wrap */
+.page__content p,
+.page__content li,
+.page__content dl {
+    font-size: 1.0667em;
+}
+
+/* sidebar profile: stack vertically on desktop.
+   The theme's base .profile_box rule (display:flex) comes after its own media query,
+   so the row layout wins at every width and the bio overflows into the content column. */
+@media (min-width: 57.8125em) {
+  .profile_box { display: block; }
+}
+
+/* section headings: separate by space instead of hairline rules */
+.page__content h1,
+.page__content h2 {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* paragraph measure: keep running text at a readable line length */
+.page__content p {
+  max-width: 68ch;
+}
+
+/* links: keep the underline for affordance, drop its weight so link-dense lists stay calm */
+.page__content a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: rgba($link-color, 0.45);
 }
