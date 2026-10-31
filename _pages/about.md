@@ -12,8 +12,6 @@ redirect_from:
 # 🧑‍💻 About Me
 I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained models for brain signal analysis.
 
-Beyond academic research, I worked as an AI Product & Operations Lead at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup, where I led product development and technical operations for [IELTS Master](https://zmielts.cn).
-
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
@@ -44,15 +42,15 @@ Beyond academic research, I worked as an AI Product & Operations Lead at [Antaly
   - Developed and trained multimodal models for biosignals.
 
 - ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
-  - Delivered workplace AI training and technical consulting support for practical AI adoption.
-  - Designed and implemented task-oriented AI agents to streamline internal workflows.
+  - Delivered workplace AI training sessions and provided consulting on practical adoption.
+  - Helped build the company's internal AI system on Feishu, including dashboards and automated workflows.
 
-- ***2024.03-2026.10***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product & Operations Lead***
-  - Designed core prompts for <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
-  - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
+- ***2024.03-2026.10***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
+  - Wrote and iterated prompts for the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature.
+  - Managed the product's social media channels and official website.
 
-- ***2024.11-2025.02***:  Juxin Financial Consulting - ***Data Analyst***
-  - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
+- ***2024.11-2025.02***:  Juxin Financial Consulting - ***Finance & Audit Intern***
+  - Performed routine financial and audit tasks, and used **OCR** with LLM **APIs** to assist invoice processing and manual reconciliation.
 
 <span class='anchor' id='education'></span>
 
