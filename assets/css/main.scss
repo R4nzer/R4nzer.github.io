@@ -144,3 +144,11 @@ img.inline-icon {
   text-underline-offset: 0.15em;
   text-decoration-color: rgba($link-color, 0.45);
 }
+
+/* sidebar tagline: a line about the work, not a repeat of the job title */
+.author__tagline {
+  font-style: italic;
+  color: $dark-gray;
+  white-space: normal;
+  margin-bottom: 1em;
+}
