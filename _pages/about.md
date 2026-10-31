@@ -15,17 +15,17 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
-- ***2026.11***: Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
+- 💼 ***2026.11***: Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
-- ***2026.10***: Graduated with a Master of Artificial Intelligence from Monash University.
+- 🎓 ***2026.10***: Graduated with a Master of Artificial Intelligence from Monash University.
 
-- ***2026.08***: One paper is accepted to NLPCC 2026 (Oral).
+- 📄 ***2026.08***: One paper was accepted to NLPCC 2026 (Oral).
 
-- ***2026.03***: We won National First Place in Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
+- 🏆 ***2026.03***: Won National First Place in the Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
-- ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
+- 💼 ***2025.11***: Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
 
-- ***2023.08***: One paper was accepted by ICEEM 2023.
+- 📄 ***2023.08***: One paper was accepted by ICEEM 2023.
 
 <span class='anchor' id='publications'></span>
 
@@ -39,13 +39,13 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Developing pretrained models for brain signal analysis.
 
 - ***2025.11-2026.10***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
-  - Built and trained models on multimodal wearable sensing signals.
+  - Developed multimodal wearable device signal models.
 
 - ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
-  - Deployed AI tooling into the company's real workflows and trained its staff to use it.
+  - Trained staff on AI adoption and developed the company's internal AI system on Feishu.
 
 - ***2024.03-2026.10***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
-  - Iterated the LLM prompts behind the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature for real users.
+  - Developed the scoring prompt behind the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature, grounded in Cambridge's official IELTS band descriptors.
 
 - ***2024.11-2025.02***:  Juxin Financial Consulting - ***Finance Intern***
   - Applied LLM **APIs** to invoice processing and reconciliation alongside routine finance and audit work.
@@ -68,11 +68,3 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 - ***2022.05***: [**MathorCup College Math Modeling Challenge**](../docs/MathorCup.pdf) - First Prize (Top 5%)
 - ***2022.02***: [**Mathematical Contest in Modeling**](../docs/Mathematical_Contest.pdf) - Honorable Mention (Top 20%)
 - ***2021.09***: [**Scholarship for Community Engagement**](../docs/Scholarship_for_Community_Engagement.pdf) - 1/30
-
-<span class='anchor' id='skills'></span>
-
-## 🔧 Skills
-
-- **Programming:** Python > C = Matlab > Java > C++
-- **Software:** SQL, Power BI, VibeCoding
-- **Languages:** Chinese (Native); English (IELTS 7.0)
