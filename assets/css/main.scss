@@ -112,11 +112,12 @@ img.inline-icon {
     border-radius: $border-radius;
 }
 
-/* body copy reads at 16px; the root stays 15px so the narrow sidebar does not re-wrap */
+/* body copy reads at 16px; the root stays 15px so the narrow sidebar does not re-wrap.
+   rem, not em: a list item that wraps its text in <p> would otherwise multiply the size. */
 .page__content p,
 .page__content li,
 .page__content dl {
-    font-size: 1.0667em;
+    font-size: 1.0667rem;
 }
 
 /* sidebar profile: stack vertically on desktop.
