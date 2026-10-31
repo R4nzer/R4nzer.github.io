@@ -49,7 +49,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Wrote and iterated prompts for the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature.
   - Managed the product's social media channels and official website.
 
-- ***2024.11-2025.02***:  Juxin Financial Consulting - ***Finance & Audit Intern***
+- ***2024.11-2025.02***:  Juxin Financial Consulting - ***Finance Intern***
   - Performed routine financial and audit tasks, and used **OCR** with LLM **APIs** to assist invoice processing and manual reconciliation.
 
 <span class='anchor' id='education'></span>
@@ -77,4 +77,4 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 - **Programming:** Python > C = Matlab > Java > C++
 - **Software:** Office, SQL, Power BI, VibeCoding
-- **Languages:** Chinese (Native); English (IELTS 6.5)
+- **Languages:** Chinese (Native); English (IELTS 7.0)
