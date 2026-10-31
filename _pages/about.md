@@ -10,14 +10,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍💻 About Me
-I am a Research Intern at the Lingang Laboratory, where I develop pretrained models for brain signal analysis.
+I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained models for brain signal analysis.
 
 Beyond academic research, I worked as an AI Product & Operations Lead at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup, where I led product development and technical operations for [IELTS Master](https://zmielts.cn).
 
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
-- ***2026.11***: Joined the Lingang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
+- ***2026.11***: Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
 - ***2026.10***: Graduated with a Master of Artificial Intelligence from Monash University.
 
@@ -37,7 +37,7 @@ Beyond academic research, I worked as an AI Product & Operations Lead at [Antaly
 <span class='anchor' id='work-experience'></span>
 
 ## 💼 Work Experience
-- ***2026.11-Present***: Lingang Laboratory - ***Research Intern***
+- ***2026.11-Present***: <img class="inline-icon" src="images/lingang.jpg" alt="Lin Gang Laboratory" /> Lin Gang Laboratory - ***Research Intern***
   - Developing pretrained models for brain signal analysis.
 
 - ***2025.11-2026.10***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
