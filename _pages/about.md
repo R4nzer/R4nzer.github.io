@@ -10,13 +10,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍💻 About Me
-I am working as a Research Intern at the [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal models for biosignals. 
+I am a Research Intern at the Lingang Laboratory, where I develop pretrained models for brain signal analysis.
 
-Beyond academic research, I am a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
+Beyond academic research, I worked as an AI Product & Operations Lead at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup, where I led product development and technical operations for [IELTS Master](https://zmielts.cn).
 
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
+- ***2026.11***: Joined the Lingang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
+
 - ***2026.10***: Graduated with a Master of Artificial Intelligence from Monash University.
 
 - ***2026.08***: One paper is accepted to NLPCC 2026 (Oral).
@@ -35,14 +37,17 @@ Beyond academic research, I am a key contributor to [IELTS Master](https://zmiel
 <span class='anchor' id='work-experience'></span>
 
 ## 💼 Work Experience
-- ***2025.11-Present***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
+- ***2026.11-Present***: Lingang Laboratory - ***Research Intern***
+  - Developing pretrained models for brain signal analysis.
+
+- ***2025.11-2026.10***: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
   - Developed and trained multimodal models for biosignals.
 
 - ***2025.10-2026.06***: Kingda Education - ***AI Technical Consultant***
   - Delivered workplace AI training and technical consulting support for practical AI adoption.
   - Designed and implemented task-oriented AI agents to streamline internal workflows.
 
-- ***2024.03-Present***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product & Operations Lead***
+- ***2024.03-2026.10***: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product & Operations Lead***
   - Designed core prompts for <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
   - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
 
