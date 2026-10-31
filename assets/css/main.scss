@@ -133,9 +133,25 @@ img.inline-icon {
   padding-bottom: 0;
 }
 
+/* one pair of margins: the nav and the page content share a left edge */
+#main,
+.masthead__inner-wrap {
+  padding-left: max(1em, 20px);
+  padding-right: max(1em, 20px);
+}
+
 /* paragraph measure: keep running text at a readable line length */
 .page__content p {
   max-width: 68ch;
+}
+
+/* the portrait is a plain circle: no ring, no outline */
+@media (min-width: 57.8125em) {
+  .author__avatar img {
+    border: 0;
+    padding: 0;
+    background: none;
+  }
 }
 
 /* links: keep the underline for affordance, drop its weight so link-dense lists stay calm */
