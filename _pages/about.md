@@ -15,7 +15,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 <span class='anchor' id='news'></span>
 
 ## 🔥 News
-- ***2026.11***: 💼 Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
+- ***2026.11***: 🔬 Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
 - ***2026.10***: 🎓 Graduated with a Master of Artificial Intelligence from Monash University.
 
@@ -23,7 +23,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 - ***2026.03***: 🏆 Won National First Place in the Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
-- ***2025.11***: 💼 Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
+- ***2025.11***: 🔬 Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
 
 - ***2023.08***: 📄 One paper was accepted by ICEEM 2023.
 
