@@ -3,3 +3,6 @@ push.sh
 .DS_Store
 google_scholar_crawler/results/
 .venv
+
+# design-taste-frontend inspector artifacts
+.taste-skill/
