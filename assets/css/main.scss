@@ -140,11 +140,6 @@ img.inline-icon {
   padding-right: max(1em, 20px);
 }
 
-/* paragraph measure: keep running text at a readable line length */
-.page__content p {
-  max-width: 68ch;
-}
-
 /* the portrait is a plain circle: no ring, no outline */
 @media (min-width: 57.8125em) {
   .author__avatar img {
