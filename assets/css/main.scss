@@ -164,3 +164,12 @@ img.inline-icon {
   white-space: normal;
   margin-bottom: 1em;
 }
+
+/* dates read as records, not sentences: one width per digit, so they line up */
+.date {
+  font-family: $monospace;
+  font-variant-numeric: tabular-nums;
+  font-style: normal;
+  font-size: 0.93em;
+  letter-spacing: -0.01em;
+}
