@@ -50,7 +50,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Developed the scoring prompt behind the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature, grounded in Cambridge's official IELTS band descriptors.
 
 - <span class="date">2024.11-2025.02</span>:  Juxin Financial Consulting - ***Finance Intern***
-  - Applied LLM **APIs** to invoice processing and reconciliation alongside routine finance and audit work.
+  - Applied LLM APIs to invoice processing and reconciliation alongside routine finance and audit work.
 
 <span class='anchor' id='education'></span>
 
