@@ -44,10 +44,10 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
   - Developed multimodal wearable device signal models.
 
 - <span class="date">2025.10-2026.06</span>: Kingda Education - ***AI Technical Consultant***
-  - Trained staff on AI adoption and developed the company's internal AI system on Feishu.
+  - Trained staff on AI adoption and built internal automation on Feishu.
 
 - <span class="date">2024.03-2026.10</span>: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
-  - Developed the scoring prompt behind the <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) writing-feedback feature, grounded in Cambridge's official IELTS band descriptors.
+  - Developed the writing-feedback feature of <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) and supported its early product operations.
 
 - <span class="date">2024.11-2025.02</span>:  Juxin Financial Consulting - ***Finance Intern***
   - Applied LLM APIs to invoice processing and reconciliation alongside routine finance and audit work.
