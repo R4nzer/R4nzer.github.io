@@ -16,9 +16,3 @@ bundle exec jekyll serve        # http://127.0.0.1:4000
 ```
 
 Deploy: push to `main`; GitHub Pages builds and publishes automatically.
-
-## CVs
-
-The CV LaTeX sources live in the separate project at `../CV/` (`cv_en/`, `cv_zh/`).
-They are no longer published as PDFs under `docs/`; that folder only holds supporting
-certificate PDFs linked from the homepage.
