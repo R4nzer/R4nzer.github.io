@@ -17,7 +17,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 ## 🔥 News
 - <span class="date">2026.11</span>: 💼 Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
-- <span class="date">2026.10</span>: 🎓 Graduated with a Master of Artificial Intelligence from Monash University.
+- <span class="date">2026.10</span>: 🎓 Graduated with a Master of Artificial Intelligence from Monash University Malaysia.
 
 - <span class="date">2026.08</span>: 📝 One paper was accepted to NLPCC 2026 (Oral).
 
@@ -56,7 +56,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 ## 🎓 Education
 
-- <span class="date">2024.07-2026.10</span>: <img class="inline-icon" src="images/monash.png" alt="Monash University" /> Monash University - ***Master of Artificial Intelligence***
+- <span class="date">2024.07-2026.10</span>: <img class="inline-icon" src="images/monash.png" alt="Monash University Malaysia" /> Monash University Malaysia - ***Master of Artificial Intelligence***
 - <span class="date">2020.09-2024.06</span>: <img class="inline-icon" src="images/hust.png" alt="Huazhong University of Science and Technology" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
   
 <span class='anchor' id='certificates-and-awards'></span>
