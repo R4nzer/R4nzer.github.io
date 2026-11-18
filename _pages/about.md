@@ -9,59 +9,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑‍💻 About Me
+# <span aria-hidden="true">🧑‍💻</span> About Me
 I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained models for brain signal analysis.
 
 <span class='anchor' id='news'></span>
 
-## 🔥 News
-- <span class="date">2026.11</span>: 💼 Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
+## <span aria-hidden="true">🔥</span> News
+- <span class="date">2026.11</span>: <span aria-hidden="true">💼</span> Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
-- <span class="date">2026.10</span>: 🎓 Graduated with a Master of Artificial Intelligence from Monash University Malaysia.
+- <span class="date">2026.10</span>: <span aria-hidden="true">🎓</span> Graduated with a Master of Artificial Intelligence from Monash University Malaysia.
 
-- <span class="date">2026.08</span>: 📝 One paper was accepted to NLPCC 2026 (Oral).
+- <span class="date">2026.08</span>: <span aria-hidden="true">📝</span> One paper was accepted to NLPCC 2026 (Oral).
 
-- <span class="date">2026.03</span>: 🏆 Won National First Place in the Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
+- <span class="date">2026.03</span>: <span aria-hidden="true">🏆</span> Won National First Place in the Wearable Biometrics Track at the 2025 Smart Wearable and Sports Health Technology Challenge.
 
-- <span class="date">2025.11</span>: 💼 Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
+- <span class="date">2025.11</span>: <span aria-hidden="true">💼</span> Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
 
-- <span class="date">2023.08</span>: 📝 One paper was accepted by ICEEM 2023.
+- <span class="date">2023.08</span>: <span aria-hidden="true">📝</span> One paper was accepted by ICEEM 2023.
 
-- <span class="date">2022.05</span>: 🏆 Won First Prize in the MathorCup College Math Modeling Challenge.
+- <span class="date">2022.05</span>: <span aria-hidden="true">🏆</span> Won First Prize in the MathorCup College Math Modeling Challenge.
 
 <span class='anchor' id='publications'></span>
 
-## 📝 Publications
+## <span aria-hidden="true">📝</span> Publications
 - Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10319517)
 
 <span class='anchor' id='work-experience'></span>
 
-## 💼 Work Experience
-- <span class="date">2026.11-Present</span>: <img class="inline-icon" src="images/lingang.jpg" alt="Lin Gang Laboratory" /> Lin Gang Laboratory - ***Research Intern***
+## <span aria-hidden="true">💼</span> Work Experience
+- <span class="date">2026.11-Present</span>: <img class="inline-icon" src="images/lingang.jpg" alt="" width="80" height="80" loading="lazy" decoding="async" /> Lin Gang Laboratory - ***Research Intern***
   - Developing pretrained models for brain signal analysis.
 
-- <span class="date">2025.11-2026.10</span>: <img class="inline-icon" src="images/LAB.png" alt="BioIES Lab" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
+- <span class="date">2025.11-2026.10</span>: <img class="inline-icon" src="images/LAB.png" alt="" width="80" height="80" loading="lazy" decoding="async" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
   - Developed multimodal wearable device signal models.
 
 - <span class="date">2025.10-2026.06</span>: Kingda Education - ***AI Technical Consultant***
   - Trained staff on AI adoption and built internal automation on Feishu.
 
-- <span class="date">2024.03-2026.10</span>: <img class="inline-icon" src="images/ANTALYA.jpg" alt="Antalya Technology" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
-  - Developed the writing-feedback feature of <img class="inline-icon" src="images/zmielts.png" alt="IELTS Master" /> [IELTS Master](https://zmielts.cn) and supported its early product operations.
+- <span class="date">2024.03-2026.10</span>: <img class="inline-icon" src="images/ANTALYA.jpg" alt="" width="80" height="80" loading="lazy" decoding="async" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
+  - Developed the writing-feedback feature of <img class="inline-icon" src="images/zmielts.png" alt="" width="78" height="80" loading="lazy" decoding="async" /> [IELTS Master](https://zmielts.cn) and supported its early product operations.
 
 - <span class="date">2024.11-2025.02</span>:  Juxin Financial Consulting - ***Finance Intern***
   - Applied LLM APIs to invoice processing and reconciliation alongside routine finance and audit work.
 
 <span class='anchor' id='education'></span>
 
-## 🎓 Education
+## <span aria-hidden="true">🎓</span> Education
 
-- <span class="date">2024.07-2026.10</span>: <img class="inline-icon" src="images/monash.png" alt="Monash University Malaysia" /> Monash University Malaysia - ***Master of Artificial Intelligence***
-- <span class="date">2020.09-2024.06</span>: <img class="inline-icon" src="images/hust.png" alt="Huazhong University of Science and Technology" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
+- <span class="date">2024.07-2026.10</span>: <img class="inline-icon" src="images/monash.png" alt="" width="66" height="80" loading="lazy" decoding="async" /> Monash University Malaysia - ***Master of Artificial Intelligence***
+- <span class="date">2020.09-2024.06</span>: <img class="inline-icon" src="images/hust.png" alt="" width="80" height="62" loading="lazy" decoding="async" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
   
 <span class='anchor' id='certificates-and-awards'></span>
 
-## 🏆 Certificates and Awards
+## <span aria-hidden="true">🏆</span> Certificates and Awards
 
 - <span class="date">2026.03</span>: [**2025 Smart Wearable and Sports Health Technology Challenge**](../docs/Smart_Wearable_Challenge_2025.pdf) - Wearable Biometrics Track National First Place
 - <span class="date">2022.09</span>: [**Scholarship for Scientific and Technological Innovation**](../docs/Scholarship_for_Scientific_and_Technological_Innovation.pdf) - 1/30

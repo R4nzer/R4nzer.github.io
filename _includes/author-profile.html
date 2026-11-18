@@ -5,7 +5,11 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {%- assign avatar_base = '/images/headshot' | relative_url -%}
+    <img src="{{ avatar_base }}-350.jpg"
+         srcset="{{ avatar_base }}-350.jpg 350w, {{ avatar_base }}-700.jpg 700w"
+         sizes="(min-width: 57.8125em) 175px, 75px"
+         class="author__avatar" alt="" width="350" height="350" fetchpriority="high" decoding="async">
   </div>
 
   <div class="author__content">

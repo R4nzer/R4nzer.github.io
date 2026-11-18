@@ -8,6 +8,11 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  /* same query as assets/js/nav.js: decide the nav mode before first paint, no flash */
+  document.documentElement.classList.toggle(
+    'nav-collapsed',
+    !window.matchMedia('(min-width: 68.75em)').matches
+  );
 </script>
 
 <!-- For all browsers -->

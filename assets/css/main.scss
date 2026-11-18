@@ -37,7 +37,6 @@
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
 .paper-box {
@@ -172,4 +171,50 @@ img.inline-icon {
   font-style: normal;
   font-size: 0.93em;
   letter-spacing: -0.01em;
+}
+
+/* native smooth scrolling replaces the jQuery smoothScroll plugin; opt in only when motion is welcome */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* headings get even line lengths; body copy avoids a single orphan word on the last line */
+h1, h2, h3, h4 {
+  text-wrap: balance;
+}
+
+.page__content p,
+.page__content li {
+  text-wrap: pretty;
+}
+
+/* masthead nav: links inline when there is room, toggle + menu below that.
+   The class is set by assets/js/nav.js, so the breakpoint lives in one place. */
+.nav-collapsed .greedy-nav {
+  /* the inline links are out of flow here, so give the row a height for the toggle */
+  min-height: 2.75em;
+
+  .visible-links {
+    display: none;
+  }
+}
+
+/* scripts blocked? keep the links reachable instead of leaving an empty bar */
+.no-js .greedy-nav {
+  min-height: 2.75em;
+
+  .visible-links {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  button {
+    display: none;
+  }
+}
+
+.nav-collapsed .greedy-nav .hidden-links a {
+  display: block;
 }
