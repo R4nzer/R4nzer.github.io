@@ -38,19 +38,14 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 ## <span aria-hidden="true">💼</span> Work Experience
 - <span class="date">2026.11-Present</span>: <img class="inline-icon" src="images/lingang.jpg" alt="" width="80" height="80" loading="lazy" decoding="async" /> Lin Gang Laboratory - ***Research Intern***
-  - Developing pretrained models for brain signal analysis.
 
 - <span class="date">2025.11-2026.10</span>: <img class="inline-icon" src="images/LAB.png" alt="" width="80" height="80" loading="lazy" decoding="async" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
-  - Developed multimodal wearable device signal models.
 
 - <span class="date">2025.10-2026.06</span>: Kingda Education - ***AI Technical Consultant***
-  - Trained staff on AI adoption and built internal automation on Feishu.
 
 - <span class="date">2024.03-2026.10</span>: <img class="inline-icon" src="images/ANTALYA.jpg" alt="" width="80" height="80" loading="lazy" decoding="async" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) - ***AI Product Operations***
-  - Developed the writing-feedback feature of <img class="inline-icon" src="images/zmielts.png" alt="" width="78" height="80" loading="lazy" decoding="async" /> [IELTS Master](https://zmielts.cn) and supported its early product operations.
 
 - <span class="date">2024.11-2025.02</span>:  Juxin Financial Consulting - ***Finance Intern***
-  - Applied LLM APIs to invoice processing and reconciliation alongside routine finance and audit work.
 
 <span class='anchor' id='education'></span>
 
