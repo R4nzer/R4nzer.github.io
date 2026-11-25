@@ -10,14 +10,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # <span aria-hidden="true">🧑‍💻</span> About Me
-I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained models for brain signal analysis.
+I am a Research Intern at the Lingang Laboratory, where I develop pretrained models for brain signal analysis.
 
 <span class='anchor' id='news'></span>
 
 ## <span aria-hidden="true">🔥</span> News
-- <span class="date">2026.11</span>: <span aria-hidden="true">📝</span> One paper was accepted by the Journal of Neural Engineering.
+- <span class="date">2026.11</span>: <span aria-hidden="true">📝</span> One paper was accepted to the Journal of Neural Engineering.
 
-- <span class="date">2026.11</span>: <span aria-hidden="true">💼</span> Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
+- <span class="date">2026.11</span>: <span aria-hidden="true">💼</span> Joined the Lingang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
 - <span class="date">2026.10</span>: <span aria-hidden="true">🎓</span> Graduated with a Master of Artificial Intelligence from Monash University Malaysia.
 
@@ -27,7 +27,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 
 - <span class="date">2025.11</span>: <span aria-hidden="true">💼</span> Joined [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) as a Research Intern, focusing on multimodal wearable sensing signals.
 
-- <span class="date">2023.08</span>: <span aria-hidden="true">📝</span> One paper was accepted by ICEEM 2023.
+- <span class="date">2023.08</span>: <span aria-hidden="true">📝</span> One paper was accepted to ICEEM 2023.
 
 - <span class="date">2022.05</span>: <span aria-hidden="true">🏆</span> Won First Prize in the MathorCup College Math Modeling Challenge.
 
@@ -39,7 +39,7 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 <span class='anchor' id='work-experience'></span>
 
 ## <span aria-hidden="true">💼</span> Work Experience
-- <span class="date">2026.11-Present</span>: <img class="inline-icon" src="images/lingang.jpg" alt="" width="80" height="80" loading="lazy" decoding="async" /> Lin Gang Laboratory - ***Research Intern***
+- <span class="date">2026.11-Present</span>: <img class="inline-icon" src="images/lingang.jpg" alt="" width="80" height="80" loading="lazy" decoding="async" /> Lingang Laboratory - ***Research Intern***
 
 - <span class="date">2025.11-2026.10</span>: <img class="inline-icon" src="images/LAB.png" alt="" width="80" height="80" loading="lazy" decoding="async" /> [BioIES Lab at SUAT](https://www.x-mol.com/groups/liao_caizhi) - ***Research Intern***
 

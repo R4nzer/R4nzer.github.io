@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Runze Ma (马润泽)"
-description              : "Runze Ma — Research Intern at Lin Gang Laboratory. Pretrained models for brain signals, multimodal wearable sensing, and healthcare AI."
+description              : "Runze Ma — Research Intern at Lingang Laboratory. Pretrained models for brain signals, multimodal wearable sensing, and healthcare AI."
 url                      : "https://r4nzer.github.io"
 repository               : "R4nzer/R4nzer.github.io"
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Runze Ma (马润泽)"
   avatar           : "images/headshot.jpg"
-  bio              : "Research Intern @ Lin Gang Laboratory"
+  bio              : "Research Intern @ Lingang Laboratory"
   tagline          : "Building models that read the body."
   location         : "Shanghai"
   employer         :
