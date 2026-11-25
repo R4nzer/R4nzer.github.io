@@ -15,6 +15,8 @@ I am a Research Intern at the Lin Gang Laboratory, where I develop pretrained mo
 <span class='anchor' id='news'></span>
 
 ## <span aria-hidden="true">🔥</span> News
+- <span class="date">2026.11</span>: <span aria-hidden="true">📝</span> One paper was accepted by the Journal of Neural Engineering.
+
 - <span class="date">2026.11</span>: <span aria-hidden="true">💼</span> Joined the Lin Gang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
 - <span class="date">2026.10</span>: <span aria-hidden="true">🎓</span> Graduated with a Master of Artificial Intelligence from Monash University Malaysia.
