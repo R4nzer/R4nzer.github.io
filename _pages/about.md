@@ -15,7 +15,7 @@ I am a Research Intern at the Lingang Laboratory, where I develop pretrained mod
 <span class='anchor' id='news'></span>
 
 ## <span aria-hidden="true">🔥</span> News
-- <span class="date">2026.11</span>: <span aria-hidden="true">📝</span> One paper was accepted to the Journal of Neural Engineering.
+- <span class="date">2026.11</span>: <span aria-hidden="true">📝</span> One paper was accepted by the Journal of Neural Engineering.
 
 - <span class="date">2026.11</span>: <span aria-hidden="true">💼</span> Joined the Lingang Laboratory as a Research Intern, working on pretrained models for brain signal analysis.
 
